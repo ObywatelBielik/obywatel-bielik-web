@@ -1,6 +1,6 @@
 # Obywatel BIELIK Web
 
-Repozytorium zawierające aplikację webową Obywatel BIELIK. Wersja webowa stanowi uzupełnienie aplikacji mobilnej i zapewnia dostęp do funkcjonalności projektu przez przeglądarkę.
+Repozytorium zawierające aplikację webową Obywatel BIELIK. Wersja webowa stanowi uzupełnienie aplikacji mobilnej w moduł ADMIN i zapewnia dostęp do funkcjonalności projektu przez przeglądarkę.
 
 ## Opis projektu
 
